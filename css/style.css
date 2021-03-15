@@ -33,3 +33,13 @@
 	height: 72px;
 	margin-top: 58px;
 }
+.section-wraper {
+	display: flex;
+}
+.texts1 {
+	background-color: #325DFF;
+}
+.block2 {
+	background-color: #325DFF;
+	border-radius: 50%;
+}
