@@ -1,7 +1,7 @@
 @media (max-width: 1024px) {
 	.left-block,
     .right-block {
-    	width: 40%;
+    	width: 50%;
     }
 }
 @media (max-width: 1024px) {
@@ -10,14 +10,31 @@
 		justify-content: space-between;
 	}
 }
-/*@media (max-width: 1024px) {
+@media (max-width: 1024px) {
 	.main-box {
 	display: flex;
 	flex-wrap: wrap;
     }
-}*/
+}
 /*@media (max-width: 1024px) {
 	.nav-li {
-		
+
 	}
 }*/
+@media (max-width: 1024px) {
+	.left-block {
+		display: flex;
+		justify-content: center;
+	    align-items: center;
+	    flex-direction: column;
+	}
+}
+@media (max-width: 1024px) {
+	.heading {
+		text-align: center;
+	    position: absolute;
+	    font-size: 100px;
+	    top: 270.5px;
+	    color: white;
+	}
+}
