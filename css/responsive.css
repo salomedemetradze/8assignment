@@ -1,0 +1,23 @@
+@media (max-width: 1024px) {
+	.left-block,
+    .right-block {
+    	width: 40%;
+    }
+}
+@media (max-width: 1024px) {
+	.wraper-box {
+		display: flex;
+		justify-content: space-between;
+	}
+}
+/*@media (max-width: 1024px) {
+	.main-box {
+	display: flex;
+	flex-wrap: wrap;
+    }
+}*/
+/*@media (max-width: 1024px) {
+	.nav-li {
+		
+	}
+}*/
